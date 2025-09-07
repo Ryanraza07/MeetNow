@@ -13,7 +13,7 @@ import StopScreenShareIcon from '@mui/icons-material/StopScreenShare'
 import ChatIcon from '@mui/icons-material/Chat'
 import server from './environment';
 
-const SERVER_URL = server.prod;
+const SERVER_URL = server;
 
 var connections = {};
 
